@@ -1,0 +1,202 @@
+body {
+background-color:zovanta;
+}
+/********************************************
+IMPORTANT
+********************************************/
+#page {
+margin:0px auto;
+background-color:white;
+width:900px;
+height:1500px;
+}
+
+#header {
+background-color:steelblue;
+width:880px;
+height:180px;
+margin:0px;
+padding:10px;
+}
+
+.logo {
+width:150px;
+height:150px;
+margin:15px 20px 15px 20px;
+float:left;
+}
+
+.main1 {
+color:white;
+font-size:36px;
+font-family:arial;
+}
+
+.main2 {
+color:white;
+font-size:25px;
+text-align:center;
+font-family:arial;
+}
+
+.main3 {
+font-family:arial;
+color:white;
+font-size:20px;
+text-align:center;
+}
+
+#noticeboard {
+background-color:grey;
+width:880px;
+float:left;
+color:white;
+height:70px;
+padding:5px 10px 5px 10px;
+font-family:arial;
+}
+
+.note1 {
+text-transform:uppercase;
+text-align:center;
+margin-top:5px;
+margin-bottom:5px;
+color:yellow;
+}
+
+.note2 {
+text-align:center;
+margin-top:5px;
+}
+
+#menu {
+background-color:white;
+width:100%;
+height:40px;
+}
+
+#menu a {
+float:left;
+padding-top:10px;
+text-align:center;
+font-family:arial;
+font-size:20px;
+width:150px;
+padding-bottom:10px;
+color:blue;
+text-decoration:none;
+}
+
+#menu a:hover {
+color:red;
+}
+/****************************************
+IMPORTANT CLOSED
+****************************************/
+
+#section {
+background-color:white;
+width:850px;
+height:1160px;
+padding:15px 20px 15px 20px;
+font-size:17px;
+font-family:arial;
+text-align:justify;
+float:left;
+}
+#section h2{
+color:#336699;
+font-size:30px;
+}
+#section h3{
+color:steelblue;
+margin:0px;
+font-size:22px;
+}
+#section .mainpic {
+width:860px;
+height:350px;
+margin-bottom:10px;
+}
+#section .welcome{
+font-size:18px;
+}
+#section img {
+float:left;
+margin-right:20px;
+margin-bottom:10px;
+width:130px;
+}
+#section .more {
+text-decoration:none;
+color:blue;
+}
+#section .facility {
+width:170px; 
+height:110px;
+margin-right:12px;
+margin-top:5px;
+margin-bottom:10px;
+}
+#section .facipara{
+font-size:17px;
+margin-bottom:5px;
+}
+
+.btn {
+width:100px;
+height:30px;
+background-color:blue; 
+color:white; 
+border:2px solid orange; 
+margin-left:20px;
+margin-top:20px; 
+font-size:20px;
+}
+
+.btn:hover{
+background-color:orange;
+border-color:black;
+}
+#about {
+font-family:arial;
+font-size:20px;
+}
+.about {
+width:120px;
+height:160px;
+}
+#leftsection {
+width:405px;
+height:780px;
+float:left;
+padding:10px;
+background-color:white;
+}
+#rightsection {
+width:405px;
+height:780px;
+padding:10px;
+float:left;
+background-color:white;
+
+}
+
+#footer {
+background-color:steelblue;
+width:890px;
+padding:5px;
+float:left;
+}
+#footer h3 {
+font-family:arial;
+font-size:18px;
+color:white;
+float:left;
+margin-left:10px;
+}
+#footer p {
+font-family:arial;
+font-size:17px;
+color:white;
+}
