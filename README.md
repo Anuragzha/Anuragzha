@@ -1,5 +1,5 @@
 # Anurag Jha 
-[visit my portfoloi](anuragkumarjha.com.np)
+[visit my portfolo](anuragkumarjha.com.np)
 
 Welcome to my portfolio! This repository contains a collection of projects and work samples showcasing my skills and experiences in various domains.
 
