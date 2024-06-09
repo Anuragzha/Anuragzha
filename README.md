@@ -1,43 +1,34 @@
-# Anurag Kumar Jha 
-[visit my portfolio](https://www.anuragkumarjha.com.np/)
+<h1 align="center">Hi 👋, I'm Anurag kumar Jha</h1>
+<h3 align="center">A passionate frontend Web-Developer from Nepal</h3>
 
-Welcome to my portfolio! This repository contains a collection of projects and work samples showcasing my skills and experiences in various domains.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragzha&label=Profile%20views&color=0e75b6&style=flat" alt="anuragzha" /> </p>
 
-## About Me
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuragzha" alt="anuragzha" /></a> </p>
 
-I am a passionate software developer with a keen interest in solving real-world problems through technology. I have experience in web development, machine learning, C-programming. My goal is to leverage my skills and knowledge to create impactful solutions and contribute to meaningful projects.
+- 🔭 I’m currently working on [The Website Makers](https://thewebsitemakers.in/)
 
-## Projects
+- 🌱 I’m currently learning **Machine Learning**
 
-### [university project](anuragzha.netlify.app/)
-- This is the first project i have done in university tech fest program 2024
-- Technologies Used: VS code, Laptop
-   [(https://github.com/Anuragzha/Anuragzha)]
+- 👨‍💻 All of my projects are available at [anuragkumarjha.com.np](anuragkumarjha.com.np)
 
-### [Impress Your Crush/girlfreind](bigfanrose.netlify.app)
-- This project is only for fun🤣😎
+- 📝 I basically write articles on [upload soon](upload soon)
 
-- [you can get it by here]([link_to_repository](https://github.com/Anuragzha/coding))
+- 💬 Ask me about **react, Python, C, c#**
 
+- 📫 How to reach me **anuragzha@icloud.com**
 
-## Skills
+- ⚡ Fun fact **I take everything as seriously except my study**
 
-- Programming Languages: C/Advanced C, Html, css, Javascript, react, Python.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/anuraag_zha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anuraag_zha" height="30" width="40" /></a>
+</p>
 
-## Education
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-- [B.tech], [Computer Science Engineer], [Baddi University of Emerging Science And Technology], [2023-2027]
-- [web development]
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuragzha&show_icons=true&locale=en&layout=compact" alt="anuragzha" /></p>
 
-## Contact Me
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuragzha&show_icons=true&locale=en" alt="anuragzha" /></p>
 
-- Email: anuragzha@icloud.com
-
-
-Feel free to reach out to me via email or connect with me on LinkedIn. I'm always open to new opportunities, collaborations, or just a friendly chat!
-
-## License
-
-This portfolio is licensed under the MIT License - [LICENSE](LICENSE) file for details.
-
-© [2024] Anurag Jha. All Rights Reserved.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragzha&" alt="anuragzha" /></p>
