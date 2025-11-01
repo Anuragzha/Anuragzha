@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuragzha" alt="anuragzha" /></a> </p>
 
-- 🔭 I’m currently working on [The Website Makers](https://thewebsitemakers.in/)
+- 🔭 I’m currently working on [Code Griha](https://www.codegriha.com/)
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [anuragkumarjha.com.np](anuragkumarjha.com.np)
+- 👨‍💻 All of my projects are available at [My Website](https://anuragkumarjha.com.np)
 
-- 📝 I basically write articles on [upload soon](upload soon)
 
-- 💬 Ask me about **react, Python, C, c#**
+
+- 💬 Ask me about **Java, Python, C, c++, Dart**
 
 - 📫 How to reach me **anuragzha@icloud.com**
 
