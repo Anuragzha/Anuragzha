@@ -1,82 +1,57 @@
-<h1 align="center">Hey there 👋, I'm Anurag Kumar Jha</h1>
-<h3 align="center">💻 A Passionate Frontend & Flutter Developer from Nepal 🇳🇵</h3>
+<!-- Modernized GitHub Profile README -->
+<h1 align="center">Hey 👋, I'm Anurag Kumar Jha</h1>
+<h3 align="center">🚀 A Passionate Frontend & Flutter Developer from Nepal</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anuragzha&label=Profile%20views&color=0e75b6&style=flat" alt="anuragzha" />
-  <img src="https://img.shields.io/github/followers/anuragzha?label=Followers" alt="followers" />
-  <img src="https://img.shields.io/github/stars/anuragzha?label=Stars" alt="stars" />
+  <img src="https://komarev.com/ghpvc/?username=anuragzha&label=Profile%20views&color=1DA1F2&style=flat-square" alt="profile views" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=anuragzha&theme=tokyonight&margin-w=5&margin-h=5&no-bg=true&no-frame=true" alt="GitHub trophies" />
+  </a>
 </p>
 
 ---
 
-### 🚀 About Me  
-- 🔭 I’m currently working on **[Code Griha](https://www.codegriha.com/)**  
-- 🌱 I’m currently learning **Flutter, Firebase, and Backend Integration**  
-- 👨‍💻 All of my projects are available at [**My Portfolio**](https://anuragkumarjha.com.np)  
-- 💬 Ask me about **Java, Python, C, C++, Dart, Flutter**  
+### 🧠 About Me  
+- 🔭 Currently working at **[Code Griha](https://www.codegriha.com/)**  
+- 🌱 Learning **Flutter** and building cross-platform apps  
+- 💻 All my projects are on [**My Website**](https://anuragkumarjha.com.np)  
+- 💬 Ask me about **Java, Python, C, C++, Dart**  
 - 📫 Reach me at **anuragzha@icloud.com**  
-- ⚡ Fun fact: *I take everything seriously... except my studies 😄*
+- ⚡ Fun fact: *I take everything seriously—except my studies 😅*
 
 ---
 
-### 🏆 GitHub Achievements & Trophies
+### 🌐 Connect with Me  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anuragzha&theme=onedark&no-frame=true&margin-w=15" alt="Trophies" />
+  <a href="https://instagram.com/anuraag_zha" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/>
+  </a>
+  <a href="https://anuragkumarjha.com.np" target="_blank">
+    <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="website"/>
+  </a>
+  <a href="mailto:anuragzha@icloud.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail"/>
+  </a>
 </p>
 
 ---
 
-### 🌐 Connect with Me
+### 🛠️ Languages & Tools  
 <p align="center">
-  <a href="https://instagram.com/anuraag_zha" target="blank"><img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/></a>
-  <a href="https://www.linkedin.com/in/anuragkumarjha/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/></a>
-  <a href="mailto:anuragzha@icloud.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email"/></a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,python,c,cpp,git,linux,mysql,nodejs,bootstrap,cloudflare" />
 </p>
 
 ---
 
-### 🧠 Languages & Tools
+### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,flutter,dart,python,c,cpp,java,mysql,linux,git,firebase,vscode" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuragzha&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=anuragzha&theme=tokyonight&hide_border=true" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragzha&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img 
-       src="https://github-readme-stats.vercel.app/api?username=anuragzha&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" 
-       alt="Anurag's GitHub Stats" 
-       width="48%" 
-  />
-  <img 
-       src="https://github-readme-streak-stats.herokuapp.com?user=anuragzha&theme=tokyonight" 
-       alt="Anurag's GitHub Streak" 
-       width="48%" 
-  />
-</p>
-
-<p align="center">
-  <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragzha&layout=compact&theme=tokyonight&langs_count=8" 
-       alt="Most Used Languages" 
-       width="48%" 
-  />
-</p>
-
-
----
-
-### 🥇 Recent Achievements
-- 🏅 Completed **Cisco Ethical Hacking Bootcamp**  
-- 🚀 Participated in **Cybersecurity Workshop** by a tech company  
-- 💡 Built an **eCommerce project** and **University Website Design** using Firebase backend  
-- 🎯 Created an **AI Chatbot in Flutter**
-
----
-
-### 💬 Quote I Live By  
-> “I read code and drink coffee too much.”  
-
----
