@@ -43,14 +43,28 @@
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuragzha&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=anuragzha&theme=tokyonight" alt="GitHub Streak" width="48%"/>
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=anuragzha&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" 
+       alt="Anurag's GitHub Stats" 
+       width="48%" 
+  />
+  <img 
+       src="https://github-readme-streak-stats.herokuapp.com?user=anuragzha&theme=tokyonight" 
+       alt="Anurag's GitHub Streak" 
+       width="48%" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragzha&layout=compact&theme=tokyonight" alt="Top Languages" width="48%"/>
+  <img 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragzha&layout=compact&theme=tokyonight&langs_count=8" 
+       alt="Most Used Languages" 
+       width="48%" 
+  />
 </p>
+
 
 ---
 
