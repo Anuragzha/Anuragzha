@@ -13,11 +13,11 @@
 
 ###  About Me  
 -    Currently working at **[Code Griha](https://www.codegriha.com/)**  
-- 🌱 Learning **Flutter** and building cross-platform apps  
-- 💻 All my projects are on [**My Website**](https://anuragkumarjha.com.np)  
-- 💬 Ask me about **Java, Python, C, C++, Dart**  
-- 📫 Reach me at **anuragzha@icloud.com**  
-- ⚡ Fun fact: *I take everything seriously—except my studies 😅*
+-    Learning **Flutter** and building cross-platform apps  
+-    All my projects are on [**My Website**](https://anuragkumarjha.com.np)  
+-    Ask me about **Java, Python, C, C++, Dart**  
+-    Reach me at **anuragzha@icloud.com**  
+-    Fun fact: *I take everything seriously—except my studies 😅*
 
 ---
 
