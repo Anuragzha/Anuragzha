@@ -38,7 +38,7 @@
 
 ### 🛠️ Languages & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,python,c,cpp,git,linux,mysql,nodejs,bootstrap,cloudflare" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,dart,python,c,cpp,git,linux,mysql,bootstrap," />
 </p>
 
 ---
