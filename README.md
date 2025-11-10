@@ -1,5 +1,5 @@
 <!-- Modernized GitHub Profile README -->
-<h1 align="center">Hey , I'm Anurag Kumar Jha</h1>
+<h1 align="center">I'm Anurag Kumar Jha</h1>
 <h3 align="center"> A Passionate Frontend & Flutter Developer from Nepal</h3>
 
 <p align="center">
