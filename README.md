@@ -1,6 +1,6 @@
 <!-- Modernized GitHub Profile README -->
-<h1 align="center">Hey 👋, I'm Anurag Kumar Jha</h1>
-<h3 align="center">🚀 A Passionate Frontend & Flutter Developer from Nepal</h3>
+<h1 align="center">Hey , I'm Anurag Kumar Jha</h1>
+<h3 align="center"> A Passionate Frontend & Flutter Developer from Nepal</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anuragzha&label=Profile%20views&color=1DA1F2&style=flat-square" alt="profile views" />
