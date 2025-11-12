@@ -28,7 +28,7 @@
 ---
 
 ### Cisco Ethical Hacking Badge
-[![Cisco Ethical Hacking Badge](https://images.credly.com/size/200x200/images/0fb3b1f9-fae4-4bca-90b6-59b1ad4d1a83/image.png)](https://www.credly.com/badges/a069c60a-26b7-45c6-b298-dfdb34f2a840)
+[![Cisco Ethical Hacking Badge](https://www.credly.com/users/anurag-kumar-jha.cedf5335/badges)
 
 
 
