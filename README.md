@@ -27,6 +27,10 @@
 
 ---
 
+### Cisco Ethical Hacking Badge  
+[![Cisco Ethical Hacking](https://images.credly.com/size/140x140/images/0fb3b1f9-fae4-4bca-90b6-59b1ad4d1a83/image.png)](https://www.credly.com/badges/a069c60a-26b7-45c6-b298-dfdb34f2a840)
+
+
 ### Connect with Me
 <p align="center">
   <a href="https://instagram.com/anuraag_zha" target="_blank">
