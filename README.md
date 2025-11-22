@@ -10,9 +10,7 @@
 
 ### GitHub Achievements
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=anuragzha&theme=onedark&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-  </a>
+  <img src="https://github-profile-trophy.vercel-infra.app/?username=anuragzha&theme=onestar&no-frame=true&no-bg=true" />
 </p>
 
 ---
