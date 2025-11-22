@@ -1,4 +1,4 @@
-<!-- ✨ Clean & Professional GitHub Profile README -->
+
 <h1 align="center">Hi, I'm Anurag Kumar Jha</h1>
 <h3 align="center">A Passionate Frontend & Flutter Developer from Nepal</h3>
 
@@ -11,7 +11,7 @@
 ### GitHub Achievements
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=anuragzha&theme=flat&row=1&column=7&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=anuragzha&theme=onedark&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
   </a>
 </p>
 
