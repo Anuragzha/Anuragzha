@@ -8,9 +8,8 @@
 
 ---
 
-### GitHub Achievements
-
-[![trophy](https://github-profile-trophy.vercel.app/?Anuragzha=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Anuragzha&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 
