@@ -9,9 +9,9 @@
 ---
 
 ### GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel-infra.app/?username=anuragzha&theme=onestar&no-frame=true&no-bg=true" />
-</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=anuragkumarjha&theme=radical&no-frame=true&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 
