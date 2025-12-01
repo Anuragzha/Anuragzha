@@ -10,7 +10,8 @@
 
 ### GitHub Achievements
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=anuragkumarjha&theme=radical&no-frame=true&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Anuragzha&theme=radical&no-frame=true&margin-w=5&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 ---
