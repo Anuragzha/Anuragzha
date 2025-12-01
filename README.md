@@ -47,7 +47,7 @@
 
 ### Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,js,react,python,c,cpp,git,linux,mysql,bootstrap,vscode,firebase,figma,vercel,php,supabase,powershell" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,js,react,python,c,cpp,git,github,linux,mysql,bootstrap,vscode,firebase,figma,vercel,php,supabase,powershell" />
 </p>
 
 ---
