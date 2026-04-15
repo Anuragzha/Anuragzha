@@ -9,7 +9,7 @@
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Anuragzha&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuragzha" alt="anuragzha" /></a> </p>
 
 ### About Me
 - Currently working at **[Code Griha](https://www.codegriha.com/)**
