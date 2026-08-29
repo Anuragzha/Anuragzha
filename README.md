@@ -171,27 +171,35 @@ status: "Building next-gen developer & consumer tools"
 
 ---
 
-### 🏆 GitHub Profile Trophies
+### 📊 GitHub Activity & Real-Time Contributions
 
 <div align="center">
+
+  <!-- Dynamic Live Shields.io Stats Grid -->
+  <p>
+    <a href="https://github.com/Anuragzha?tab=repositories"><img src="https://img.shields.io/github/followers/Anuragzha?label=Followers&style=for-the-badge&logo=github&color=00D2FF&labelColor=0b0f19" alt="Followers" /></a>
+    &nbsp;
+    <a href="https://github.com/Anuragzha?tab=repositories"><img src="https://img.shields.io/badge/Status-Active_Developer-3DDC84?style=for-the-badge&logo=codefactor&logoColor=white&labelColor=0b0f19" alt="Status" /></a>
+    &nbsp;
+    <a href="https://github.com/Anuragzha?tab=repositories"><img src="https://img.shields.io/badge/Specialization-Flutter_%26_AI-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=0b0f19" alt="Focus" /></a>
+  </p>
+
+  <br/>
+
+  <!-- 100% Live Streak Stats Engine -->
   <a href="https://github.com/Anuragzha">
-    <img src="https://github-profile-trophy.vercel.app/?username=Anuragzha&theme=tokyonight&no-bg=true&no-frame=false&margin-w=12&row=1&column=7" alt="Anurag's GitHub Trophies" />
+    <img src="https://streak-stats.demolab.com/?user=Anuragzha&theme=tokyonight&background=0b0f19&ring=00D2FF&fire=00D2FF&currStreakLabel=00D2FF&sideLabels=94a3b8&dates=cbd5e1&hide_border=true" alt="Anurag's GitHub Streak & Contributions" width="90%" />
   </a>
-</div>
 
----
+  <br/><br/>
 
-### 📊 GitHub Activity & Real-Time Stats
+  <!-- 100% Live Visual GitHub Contribution Graph -->
+  <div style="background-color: #0b0f19; padding: 16px; border-radius: 12px; border: 1px solid rgba(0, 210, 255, 0.15);">
+    <a href="https://github.com/Anuragzha">
+      <img src="https://ghchart.rshah.org/00D2FF/Anuragzha" alt="Anurag's GitHub Contributions Matrix" width="100%" />
+    </a>
+  </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anuragzha&theme=tokyonight&hide_border=true&background=0b0f19&ring=00D2FF&fire=00D2FF&currStreakLabel=00D2FF" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Anuragzha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=00D2FF&icon_color=00D2FF&text_color=94a3b8&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuragzha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=00D2FF&text_color=94a3b8" alt="Top Languages" width="60%" />
 </div>
 
 ---
